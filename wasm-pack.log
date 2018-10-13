@@ -1,0 +1,4 @@
+Oct 13 00:03:22.328 ERRO Your version of Rust, '1.29', is not supported. Please install Rust version 1.30.0 or higher.
+Oct 13 00:56:50.920 ERRO Compiling your crate to WebAssembly
+Oct 13 00:57:31.910 ERRO Compiling your crate to WebAssembly
+Oct 13 23:45:30.572 ERRO Compiling your crate to WebAssembly
